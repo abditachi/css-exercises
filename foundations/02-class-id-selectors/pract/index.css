@@ -1,0 +1,22 @@
+.first-para{
+    font-size: 24px;
+    background-color:pink ;
+    font-family: Verdana, "DejaVu Sans", sans-serif ;
+}
+.second-para{
+    font-size: 24px;
+    background-color: pink;
+}
+.third-para{
+    font-size: 24px;
+    background-color: pink;
+}
+#first-id{
+    font-size: 36px;
+    color:blue ;
+}
+#second-id{
+    background-color:lightgreen ;
+    font-size: 24px;
+    font-weight: bold;
+}
